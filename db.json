@@ -9,5 +9,18 @@
         "math":"30",
         "mech":"30",
         "french":"20"
-    }]
+    },
+               {
+                   "name":"محمود جمال",
+        "arabic":"37",
+        "english":"35",
+        "physhics":"28.5",
+        "chemistry":"30",
+        "bio":"22",
+        "math":"30",
+        "mech":"30",
+        "french":"20"
+               }
+              
+              ]
 }
