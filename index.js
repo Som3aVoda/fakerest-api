@@ -193,5 +193,5 @@ async function handle(req, res) {
     await persist();
   }
   http.createServer((req, res) => handle(req, res).catch(() => send(res, 500, { error: 'Internal server error.' })))
-    .listen(PORT, () => console.log(`FilmHub API listening on ${PORT}; ${database.movies.length} movies loaded.`));
+    .listen(PORT, () => console.log(`TVHOME API listening on ${PORT}; ${database.movies.length} movies loaded.`));
 })();
