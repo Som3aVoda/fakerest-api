@@ -1,0 +1,9 @@
+{
+  "name": "filmhub-api",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Persistent JSON API for FilmHub",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=18" }
+}
